@@ -1,1 +1,3 @@
-# Data_for_WAEMU_Apps_Papers
+# Data for the "Security Assessment of Mobile Banking Apps in West African Countries" paper
+
+
