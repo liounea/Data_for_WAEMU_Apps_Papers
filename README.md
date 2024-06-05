@@ -3,6 +3,7 @@ This repository contains data related to our paper about mobile banking apps (MB
 (WAEMU) countries.
 
 **African parent banking apps folder**
+
 This folder contains the ***analysis results*** in JSON file format and the ***statistics*** of the MBAs from African banks with subsidiaries in the WAEMU countries.
 
 **EU banking apps**
