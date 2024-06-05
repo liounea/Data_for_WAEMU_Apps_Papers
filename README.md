@@ -19,7 +19,7 @@ This folder contains the ***analysis results*** (compressed file) in JSON file f
 This folder contains the ***analysis results*** (compressed file) in JSON file formats and the ***statistics*** in CSV format of the 20 MBAs from the top 20 United States banks.
 
 ### WAEMU banking apps - Latest folder
-This folder contains the ***analysis results*** (compressed file) in JSON file formats and the ***statistics*** in CSV format of the 59 WAEMU banking apps we wanted to assess their security. Those MBAs are the basis of this work. 
+This folder contains the ***analysis results*** (compressed file) in JSON file formats and the ***statistics*** in CSV format of the 59 WAEMU banking apps we wanted to assess their security. Those MBAs are the basis of this work. This folder also contains the list of the old versions for each of the 59 WAEMU apps (***WAEMU Banking Apps - Latest.csv***)
 
 ### WAEMU banking apps - Oldest folder
 This folder contains the ***analysis results*** (compressed file) in JSON file formats and the ***statistics*** in CSV format of the 59 WAEMU banking apps we wanted to assess their security. Those MBAs are the basis of this work. This folder also contains the list of the old versions for each of the 59 WAEMU apps (***WAEMU banking apps-OldestVersionChosen.csv***) and the chosen old versions for this study (***WAEMU banking apps-OldestVersionChosen.csv***).
