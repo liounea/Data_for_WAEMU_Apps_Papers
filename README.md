@@ -1,8 +1,7 @@
-# Data for the  paper
+# Data for the Cybersecurity4D2024 conference
 
 
-This repository contains data related to our paper titled ***Security Assessment of Mobile Banking Apps in West African Countries*** and submitted at the Cybersecurity4D2024![image](https://github.com/liounea/Data_for_WAEMU_Apps_Papers/assets/117454340/ef3607ba-71a8-4bdb-9b87-313a2d931cea)
-
+This repository contains data related to our paper titled ***Security Assessment of Mobile Banking Apps in West African Countries*** and submitted at the Cybersecurity4D2024 conference.
 
 # African parent banking apps folder
 This folder contains the ***analysis results*** in JSON file formats and the ***statistics*** in CSV format of the mobile banking apps (MBAs) from African banks with subsidiaries in the West African Economic and Monetary Union (WAEMU countries.
